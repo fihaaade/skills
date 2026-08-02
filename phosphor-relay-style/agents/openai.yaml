@@ -1,0 +1,7 @@
+interface:
+  display_name: "Phosphor Relay"
+  short_description: "Photograph a broadcast off a glowing screen"
+  default_prompt: "Use $phosphor-relay-style to turn this into a frame photographed off a glowing display: [subject]."
+
+policy:
+  allow_implicit_invocation: false

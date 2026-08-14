@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outsider Art v1.1"
+  short_description: "把照片意象或文字主题转成平摊世界、密纹成静、窄色板加唯一高亮色的素人艺术风海报"
+  default_prompt: "Use $outsider-art-v1 to turn this photo (semantic reference only) or theme into a flat naïve Outsider Art poster with layered map-like color zones, dense uniform hand textures, tiny faceless figures, a narrow subdued scene-derived palette, and exactly one saturated highlight color doing compositional work."
